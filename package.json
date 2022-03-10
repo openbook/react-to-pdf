@@ -99,6 +99,6 @@
   },
   "peerDependencies": {
     "react": "^17.0.0",
-    "react-dom": "^16.5.2"
+    "react-dom": "^17.0.0"
   }
 }
